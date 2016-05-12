@@ -1,0 +1,25 @@
+{
+  "name": "eyeos-bustohttp",
+  "version": "0.0.41",
+  "description": "Bus to HTTP",
+  "main": "./src/eyeos-BusToHttp.js",
+  "author": "eyeOS",
+  "homepage": "http://www.eyeos.com/",
+  "dependencies": {
+    "httptobusserver": "*",
+    "log2out": "0.0.18"
+  },
+  "devDependencies": {
+    "eyeos-builder-utils": "*",
+    "eyeos-gruntfile": "*",
+    "chai": "1.10.0",
+    "sinon": "1.12.2",
+    "mocha": "2.1.0",
+    "grunt": "0.4.5",
+    "grunt-init": "0.3.2",
+    "grunt-shell": "1.1.1",
+    "grunt-mocha-test": "0.12.6",
+    "eyeos-authentication-fake": "*"
+  },
+  "license": "AGPL-3.0"
+}
