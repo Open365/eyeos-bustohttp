@@ -7,7 +7,7 @@
   "homepage": "http://www.eyeos.com/",
   "dependencies": {
     "httptobusserver": "*",
-    "log2out": "0.0.18"
+    "log2out": "*"
   },
   "devDependencies": {
     "eyeos-builder-utils": "*",
