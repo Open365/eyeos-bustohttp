@@ -1,6 +1,6 @@
 {
   "name": "eyeos-bustohttp",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "description": "Bus to HTTP",
   "main": "./src/eyeos-BusToHttp.js",
   "author": "eyeOS",
